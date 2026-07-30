@@ -13,7 +13,7 @@ public class UserUI {
 	
 	public void showMessage() {
 		
-		System.out.println("------Welcome!------");
+		System.out.println("------Welcome!!------");
 		System.out.println("1. Create Account\n 2. Login");
 		System.out.print("Please choose option : ");
 		int option = scan.nextInt();
