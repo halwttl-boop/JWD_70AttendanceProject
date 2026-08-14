@@ -1,6 +1,6 @@
 package com.ui;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 import com.model.UserBean;
 import com.repositary.*;
